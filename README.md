@@ -33,3 +33,9 @@ Steps
 5. Run the `npx serve dist` , this will render the generated html files.
 6. The files generated will be served to the browser via the localhost based on the port provided.
 ````
+
+**Credits**
+````
+1. Template used https://www.tailwindtoolbox.com/templates/minimal-blog
+2. Credits to joelnet's repo https://github.com/joelnet/static-site-generator.git
+````

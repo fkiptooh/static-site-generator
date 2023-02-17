@@ -1,6 +1,6 @@
 ``
 SIMPLE STATIC SITE GENERATOR BUILD WITH NODE JS
-``
+
 ```
 This site generator is used to create dummy post using a tailwind toolbox as the template
 ```
@@ -24,3 +24,4 @@ How to install
 7 Finally run `npx serve dist` command to execute the generate html pages and serve the static pages by the local serve and its port.
 8. To view the website generate, click `ctrl` command on the keyboard as well as the link that is displayed on the terminal to access the static site on the browser.
 ````
+``

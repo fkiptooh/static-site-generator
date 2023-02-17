@@ -22,3 +22,14 @@ How to install
 7 Finally run `npx serve dist` command to execute the generate html pages and serve the static pages by the local serve and its port.
 8. To view the website generate, click `ctrl` command on the keyboard as well as the link that is displayed on the terminal to access the static site on the browser.
 ````
+
+**How to use the project**
+````
+Steps
+1. Go to the pages folder.
+2. Modifiy the contents of the markdown files to suite your needs or the contents you want to be displayed on the site.
+3. Save the files.
+4. Run `npm start` this will generate the respective markdown files with .html extensions.
+5. Run the `npx serve dist` , this will render the generated html files.
+6. The files generated will be served to the browser via the localhost based on the port provided.
+````

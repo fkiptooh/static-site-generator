@@ -1,10 +1,9 @@
-SIMPLE STATIC SITE GENERATOR BUILD WITH NODE JS
+**SIMPLE STATIC SITE GENERATOR BUILD WITH NODE JS**
 
-```
 This site generator is used to create dummy post using a tailwind toolbox as the template
-```
+
 ``
-How to install and run the project
+__How to install and run the project__
 ``
 ````
 Prerequisites
